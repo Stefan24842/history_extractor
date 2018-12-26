@@ -32,4 +32,4 @@ I wrote a script `extract_fox.py` that works in most cases (only skips lines con
 
 The chromium script is very easy since it only contains time/url, I added it to the repo, too.
 
-You can reuse the python code under the MIT/X11 license, the stackexchange and mozilla support snippets are available under creative commons (CC BY-SA, see respective websites for more info).
+You can redistribute the python code under the MIT/X11 license, the stackexchange and mozilla support snippets are licensed under creative commons (CC BY-SA, see respective websites for more info).
